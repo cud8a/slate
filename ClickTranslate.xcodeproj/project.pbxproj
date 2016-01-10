@@ -12,11 +12,12 @@
 		020821221C2CA16A0008D50B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 020821211C2CA16A0008D50B /* Assets.xcassets */; };
 		0208212D1C2CB16B0008D50B /* CustomWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0208212C1C2CB16B0008D50B /* CustomWebView.swift */; };
 		0221E4601C418CDB00A705A1 /* RoundCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0221E45F1C418CDB00A705A1 /* RoundCorner.swift */; };
-		0221E4631C419C4500A705A1 /* BookmarksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0221E4611C419C4500A705A1 /* BookmarksViewController.swift */; };
-		0221E4641C419C4500A705A1 /* BookmarksViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0221E4621C419C4500A705A1 /* BookmarksViewController.xib */; };
 		0221E4671C41A13800A705A1 /* BookmarkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0221E4651C41A13800A705A1 /* BookmarkTableViewCell.swift */; };
 		0221E4681C41A13800A705A1 /* BookmarkTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0221E4661C41A13800A705A1 /* BookmarkTableViewCell.xib */; };
 		0221E46C1C41B3A600A705A1 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 0221E46B1C41B3A600A705A1 /* MBProgressHUD.m */; };
+		02B230481C4309E9002346F0 /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B230471C4309E9002346F0 /* Secrets.swift */; };
+		02B2304B1C430A0A002346F0 /* BookmarksViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 02B230491C430A0A002346F0 /* BookmarksViewController.xib */; };
+		02B2304C1C430A0A002346F0 /* BookmarksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B2304A1C430A0A002346F0 /* BookmarksViewController.swift */; };
 		02D8BF3B1C32FA5200503E19 /* TranslateRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D8BF3A1C32FA5200503E19 /* TranslateRequest.swift */; };
 		02D8BF3D1C32FB9000503E19 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D8BF3C1C32FB9000503E19 /* SwiftyJSON.swift */; };
 		02D8BF3F1C331F1100503E19 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 02D8BF3E1C331F1100503E19 /* MainViewController.xib */; };
@@ -30,13 +31,14 @@
 		020821261C2CA16A0008D50B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0208212C1C2CB16B0008D50B /* CustomWebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomWebView.swift; sourceTree = "<group>"; };
 		0221E45F1C418CDB00A705A1 /* RoundCorner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundCorner.swift; sourceTree = "<group>"; };
-		0221E4611C419C4500A705A1 /* BookmarksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BookmarksViewController.swift; path = ../BookmarksViewController.swift; sourceTree = "<group>"; };
-		0221E4621C419C4500A705A1 /* BookmarksViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = BookmarksViewController.xib; path = ../BookmarksViewController.xib; sourceTree = "<group>"; };
 		0221E4651C41A13800A705A1 /* BookmarkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarkTableViewCell.swift; sourceTree = "<group>"; };
 		0221E4661C41A13800A705A1 /* BookmarkTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BookmarkTableViewCell.xib; sourceTree = "<group>"; };
 		0221E4691C41B3A500A705A1 /* ClickTranslate-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ClickTranslate-Bridging-Header.h"; sourceTree = "<group>"; };
 		0221E46A1C41B3A600A705A1 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
 		0221E46B1C41B3A600A705A1 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		02B230471C4309E9002346F0 /* Secrets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
+		02B230491C430A0A002346F0 /* BookmarksViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BookmarksViewController.xib; sourceTree = "<group>"; };
+		02B2304A1C430A0A002346F0 /* BookmarksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookmarksViewController.swift; sourceTree = "<group>"; };
 		02D8BF3A1C32FA5200503E19 /* TranslateRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TranslateRequest.swift; sourceTree = "<group>"; };
 		02D8BF3C1C32FB9000503E19 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		02D8BF3E1C331F1100503E19 /* MainViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
@@ -72,11 +74,11 @@
 		020821191C2CA16A0008D50B /* ClickTranslate */ = {
 			isa = PBXGroup;
 			children = (
+				02B230491C430A0A002346F0 /* BookmarksViewController.xib */,
+				02B2304A1C430A0A002346F0 /* BookmarksViewController.swift */,
 				0221E46A1C41B3A600A705A1 /* MBProgressHUD.h */,
 				0221E46B1C41B3A600A705A1 /* MBProgressHUD.m */,
 				0208211A1C2CA16A0008D50B /* AppDelegate.swift */,
-				0221E4611C419C4500A705A1 /* BookmarksViewController.swift */,
-				0221E4621C419C4500A705A1 /* BookmarksViewController.xib */,
 				0221E4651C41A13800A705A1 /* BookmarkTableViewCell.swift */,
 				0221E4661C41A13800A705A1 /* BookmarkTableViewCell.xib */,
 				0208211C1C2CA16A0008D50B /* MainViewController.swift */,
@@ -88,6 +90,7 @@
 				02D8BF3A1C32FA5200503E19 /* TranslateRequest.swift */,
 				02D8BF3C1C32FB9000503E19 /* SwiftyJSON.swift */,
 				0221E4691C41B3A500A705A1 /* ClickTranslate-Bridging-Header.h */,
+				02B230471C4309E9002346F0 /* Secrets.swift */,
 			);
 			path = ClickTranslate;
 			sourceTree = "<group>";
@@ -152,7 +155,7 @@
 			files = (
 				020821221C2CA16A0008D50B /* Assets.xcassets in Resources */,
 				02D8BF3F1C331F1100503E19 /* MainViewController.xib in Resources */,
-				0221E4641C419C4500A705A1 /* BookmarksViewController.xib in Resources */,
+				02B2304B1C430A0A002346F0 /* BookmarksViewController.xib in Resources */,
 				0221E4681C41A13800A705A1 /* BookmarkTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -164,11 +167,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0221E4631C419C4500A705A1 /* BookmarksViewController.swift in Sources */,
+				02B230481C4309E9002346F0 /* Secrets.swift in Sources */,
 				02D8BF3B1C32FA5200503E19 /* TranslateRequest.swift in Sources */,
 				0208211D1C2CA16A0008D50B /* MainViewController.swift in Sources */,
 				0208211B1C2CA16A0008D50B /* AppDelegate.swift in Sources */,
 				0221E46C1C41B3A600A705A1 /* MBProgressHUD.m in Sources */,
+				02B2304C1C430A0A002346F0 /* BookmarksViewController.swift in Sources */,
 				02D8BF3D1C32FB9000503E19 /* SwiftyJSON.swift in Sources */,
 				0208212D1C2CB16B0008D50B /* CustomWebView.swift in Sources */,
 				0221E4601C418CDB00A705A1 /* RoundCorner.swift in Sources */,

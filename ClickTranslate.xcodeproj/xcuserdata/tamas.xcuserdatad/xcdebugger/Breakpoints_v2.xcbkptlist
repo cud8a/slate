@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ClickTranslate/MainViewController.swift"
-            timestampString = "474069438.926048"
+            timestampString = "474156256.326432"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "212"
-            endingLineNumber = "212"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
             landmarkName = "showMenuAnimated()"
             landmarkType = "5">
          </BreakpointContent>

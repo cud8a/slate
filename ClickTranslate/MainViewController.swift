@@ -68,6 +68,9 @@ class MainViewController: UIViewController, UIWebViewDelegate, TranslateRequestD
     {
         MBProgressHUD.hideAllHUDsForView(view, animated: true)
         btnBack.enabled = webView.canGoBack
+        
+        let currentURL = webView.stringByEvaluatingJavaScriptFromString("window.location.href")
+        urlView.text = currentURL
     }
     
     func webViewDidStartLoad(webView: UIWebView)

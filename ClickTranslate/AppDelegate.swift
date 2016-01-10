@@ -9,7 +9,6 @@
 import UIKit
 import SystemConfiguration
 
-let GOOGLE_API_KEY = "?"
 let KEY_LAST_WARNING_NO_NETWORK = "kNoNet"
 
 @UIApplicationMain
